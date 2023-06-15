@@ -1,1 +1,2 @@
 This is file7
+am adding new line
